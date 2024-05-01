@@ -8,6 +8,8 @@ import javax.swing.JFrame;
  *
  * @author Laura Pineda
  */
+
+/** nose que hago**/
 public class Inicio {
 
     public static void main(String[] args) {
