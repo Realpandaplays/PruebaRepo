@@ -10,6 +10,7 @@ import javax.swing.JFrame;
  */
 
 /**Asi deberia quedar el master ahora si asi**/
+/**haciendo uso del merge**/
 public class Inicio {
 
     public static void main(String[] args) {
