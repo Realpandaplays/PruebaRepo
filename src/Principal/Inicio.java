@@ -8,8 +8,8 @@ import javax.swing.JFrame;
  *
  * @author Laura Pineda
  */
+/**Pruebas de como crear ramas en github**/
 
-/** nose que hago**/
 public class Inicio {
 
     public static void main(String[] args) {
