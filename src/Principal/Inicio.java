@@ -10,8 +10,7 @@ import javax.swing.JFrame;
  */
 
 
-
-/**Pruebas de como crear ramas en github**/
+/**Asi deberia quedar el master**/
 public class Inicio {
 
     public static void main(String[] args) {
