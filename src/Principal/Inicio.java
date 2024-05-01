@@ -10,8 +10,6 @@ import javax.swing.JFrame;
  */
 
 /**Asi deberia quedar el master ahora si asi**/
-/**Asi deberia quedar el master ahora si asi**/
-/**Asi deberia quedar el master ahora si asi**/
 public class Inicio {
 
     public static void main(String[] args) {
